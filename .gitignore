@@ -3,3 +3,5 @@
 *.swp
 *.swm
 *.swn
+
+node_modules
